@@ -245,7 +245,6 @@
       LU: 'schengen',
       FI: 'schengen',
       FR: 'schengen',
-      HR: 'schengen',
       CZ: 'schengen',
       EE: 'schengen',
       SO: 'danger',

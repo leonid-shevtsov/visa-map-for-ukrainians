@@ -139,7 +139,7 @@ $ ->
     LU: 'schengen'
     FI: 'schengen'
     FR: 'schengen'
-    HR: 'schengen'
+    # HR: 'schengen' wrong
     CZ: 'schengen'
     EE: 'schengen'
 
