@@ -217,7 +217,7 @@ $ ->
 
   $('#map').highcharts 'Map',
     title:
-      text: 'Визы для украинцев'
+      text: 'Визовый режим для украинцев'
     mapNavigation:
       enabled: true
     plotOptions:
