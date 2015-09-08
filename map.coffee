@@ -5,7 +5,7 @@ $ ->
 
   data =
     UA: 'internalPassport'
-    RU: 'internalPassport'
+    RU: 'visaFree'
     BY: 'internalPassport'
     AZ: 'visaFree'
     AL: 'visaFree'
