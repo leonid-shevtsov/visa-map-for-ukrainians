@@ -1,0 +1,766 @@
+{
+  "UA": {
+    "status": "internalPassport",
+    "note": ""
+  },
+  "RU": {
+    "status": "internalPassport",
+    "note": "если паспорт заполнен от руки, могут возникнуть проблемы"
+  },
+  "BY": {
+    "status": "internalPassport",
+    "note": ""
+  },
+  "AZ": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "AL": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "AG": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "AR": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "BA": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "BR": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "BN": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "AM": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "GT": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "TM": {
+    "status": "visa",
+    "note": ""
+  },
+  "TR": {
+    "status": "visaFree",
+    "note": "до 60 дней"
+  },
+  "HK": {
+    "status": "visaFree",
+    "note": "до 14 дней"
+  },
+  "GD": {
+    "status": "airport",
+    "note": ""
+  },
+  "GE": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "PA": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "PY": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "PE": {
+    "status": "visaFree",
+    "note": "до 183 дней при наличии документов о туристической цели путешествия"
+  },
+  "PN": {
+    "status": "visaFree",
+    "note": "на 14 дней в случае прибытия и отплытия на одном судне"
+  },
+  "EH": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "IL": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "KZ": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "KG": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "MY": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "MK": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "FM": {
+    "status": "visaFree",
+    "note": "только для туристов с ваучерами"
+  },
+  "MD": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "MN": {
+    "status": "visaFree",
+    "note": " необходимо подтверждение цели поездки"
+  },
+  "CK": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "SV": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "WS": {
+    "status": "visaFree",
+    "note": "до 60 дней"
+  },
+  "SZ": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "SC": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "RS": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "NA": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "NI": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "NU": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "TJ": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "UZ": {
+    "status": "visaFree",
+    "note": ""
+  },
+  "ME": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "EC": {
+    "status": "visaFree",
+    "note": "до 90 дней туристам"
+  },
+  "JM": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "MO": {
+    "status": "airport",
+    "note": ""
+  },
+  "BB": {
+    "status": "airport",
+    "note": ""
+  },
+  "BO": {
+    "status": "airport",
+    "note": ""
+  },
+  "BF": {
+    "status": "airport",
+    "note": "на границе"
+  },
+  "BI": {
+    "status": "airport",
+    "note": "желательно открывать в посольстве"
+  },
+  "TL": {
+    "status": "airport",
+    "note": ""
+  },
+  "MU": {
+    "status": "airport",
+    "note": ""
+  },
+  "MG": {
+    "status": "airport",
+    "note": ""
+  },
+  "MW": {
+    "status": "visa",
+    "note": ""
+  },
+  "MV": {
+    "status": "airport",
+    "note": ""
+  },
+  "HT": {
+    "status": "danger",
+    "note": ""
+  },
+  "GM": {
+    "status": "visa",
+    "note": ""
+  },
+  "TG": {
+    "status": "airport",
+    "note": ""
+  },
+  "TO": {
+    "status": "airport",
+    "note": ""
+  },
+  "TV": {
+    "status": "airport",
+    "note": ""
+  },
+  "UG": {
+    "status": "airport",
+    "note": ""
+  },
+  "FJ": {
+    "status": "airport",
+    "note": ""
+  },
+  "DJ": {
+    "status": "airport",
+    "note": ""
+  },
+  "DM": {
+    "status": "visaFree",
+    "note": "до 21 дня"
+  },
+  "DO": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "EG": {
+    "status": "airport",
+    "note": "можно получить бесплатную Синайскую визу"
+  },
+  "ZM": {
+    "status": "airport",
+    "note": ""
+  },
+  "JO": {
+    "status": "airport",
+    "note": ""
+  },
+  "CV": {
+    "status": "airport",
+    "note": ""
+  },
+  "KE": {
+    "status": "airport",
+    "note": ""
+  },
+  "KM": {
+    "status": "airport",
+    "note": ""
+  },
+  "LA": {
+    "status": "airport",
+    "note": ""
+  },
+  "LB": {
+    "status": "airport",
+    "note": ""
+  },
+  "NP": {
+    "status": "airport",
+    "note": ""
+  },
+  "VC": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "TZ": {
+    "status": "airport",
+    "note": ""
+  },
+  "TH": {
+    "status": "airport",
+    "note": "туристическая виза на 15 дней оформляется на границе"
+  },
+  "AU": {
+    "status": "online",
+    "note": "разрешение на получение визы в аэропорту прибытие оформляется по Интернету"
+  },
+  "QA": {
+    "status": "visa",
+    "note": ""
+  },
+  "CY": {
+    "status": "online",
+    "note": ""
+  },
+  "KW": {
+    "status": "online",
+    "note": ""
+  },
+  "BH": {
+    "status": "online",
+    "note": "визу ставят в аэропорту"
+  },
+  "BW": {
+    "status": "visa",
+    "note": "через посольство Великобритании"
+  },
+  "VU": {
+    "status": "visaFree",
+    "note": "до 30 дней"
+  },
+  "ST": {
+    "status": "online",
+    "note": ""
+  },
+  "SN": {
+    "status": "online",
+    "note": ""
+  },
+  "KN": {
+    "status": "online",
+    "note": ""
+  },
+  "LC": {
+    "status": "online",
+    "note": ""
+  },
+  "SG": {
+    "status": "visa",
+    "note": "оформление через авиакомпанию или отель"
+  },
+  "SR": {
+    "status": "online",
+    "note": ""
+  },
+  "VN": {
+    "status": "online",
+    "note": "виза получается в любом аэропорту, однако нужно иметь пригласительное письмо"
+  },
+  "GH": {
+    "status": "online",
+    "note": ""
+  },
+  "IR": {
+    "status": "online",
+    "note": ""
+  },
+  "IN": {
+    "status": "online",
+    "note": "виза проставляется в аэропорту, однако требуется заранее оформить приглашение онлайн"
+  },
+  "KH": {
+    "status": "online",
+    "note": ""
+  },
+  "MH": {
+    "status": "visa",
+    "note": "через посольство США"
+  },
+  "MX": {
+    "status": "online",
+    "note": ""
+  },
+  "AE": {
+    "status": "online",
+    "note": ""
+  },
+  "PG": {
+    "status": "visa",
+    "note": "через посольство Австралии"
+  },
+  "RW": {
+    "status": "online",
+    "note": ""
+  },
+  "LK": {
+    "status": "online",
+    "note": ""
+  },
+  "SS": {
+    "status": "visa",
+    "note": ""
+  },
+  "AT": {
+    "status": "schengen",
+    "note": ""
+  },
+  "AD": {
+    "status": "schengen",
+    "note": ""
+  },
+  "BE": {
+    "status": "schengen",
+    "note": ""
+  },
+  "HU": {
+    "status": "schengen",
+    "note": ""
+  },
+  "CH": {
+    "status": "schengen",
+    "note": ""
+  },
+  "SE": {
+    "status": "schengen",
+    "note": ""
+  },
+  "DE": {
+    "status": "schengen",
+    "note": ""
+  },
+  "GR": {
+    "status": "schengen",
+    "note": ""
+  },
+  "DK": {
+    "status": "schengen",
+    "note": ""
+  },
+  "IS": {
+    "status": "schengen",
+    "note": ""
+  },
+  "ES": {
+    "status": "schengen",
+    "note": ""
+  },
+  "IT": {
+    "status": "schengen",
+    "note": ""
+  },
+  "MT": {
+    "status": "schengen",
+    "note": ""
+  },
+  "NL": {
+    "status": "schengen",
+    "note": ""
+  },
+  "NO": {
+    "status": "schengen",
+    "note": ""
+  },
+  "PL": {
+    "status": "schengen",
+    "note": ""
+  },
+  "PT": {
+    "status": "schengen",
+    "note": ""
+  },
+  "SK": {
+    "status": "schengen",
+    "note": ""
+  },
+  "SI": {
+    "status": "schengen",
+    "note": ""
+  },
+  "LV": {
+    "status": "schengen",
+    "note": ""
+  },
+  "LT": {
+    "status": "schengen",
+    "note": ""
+  },
+  "LI": {
+    "status": "schengen",
+    "note": ""
+  },
+  "LU": {
+    "status": "schengen",
+    "note": ""
+  },
+  "FI": {
+    "status": "schengen",
+    "note": ""
+  },
+  "FR": {
+    "status": "schengen",
+    "note": ""
+  },
+  "CZ": {
+    "status": "schengen",
+    "note": ""
+  },
+  "EE": {
+    "status": "schengen",
+    "note": ""
+  },
+  "SO": {
+    "status": "danger",
+    "note": ""
+  },
+  "AF": {
+    "status": "danger",
+    "note": ""
+  },
+  "IQ": {
+    "status": "danger",
+    "note": ""
+  },
+  "CG": {
+    "status": "danger",
+    "note": ""
+  },
+  "PK": {
+    "status": "danger",
+    "note": ""
+  },
+  "YE": {
+    "status": "danger",
+    "note": ""
+  },
+  "SD": {
+    "status": "danger",
+    "note": ""
+  },
+  "SY": {
+    "status": "danger",
+    "note": ""
+  },
+  "ZW": {
+    "status": "danger",
+    "note": ""
+  },
+  "CI": {
+    "status": "danger",
+    "note": ""
+  },
+  "DZ": {
+    "status": "danger",
+    "note": ""
+  },
+  "NG": {
+    "status": "danger",
+    "note": ""
+  },
+  "ET": {
+    "status": "danger",
+    "note": ""
+  },
+  "AO": {
+    "status": "closed",
+    "note": ""
+  },
+  "BT": {
+    "status": "closed",
+    "note": ""
+  },
+  "LY": {
+    "status": "closed",
+    "note": ""
+  },
+  "SA": {
+    "status": "closed",
+    "note": ""
+  },
+  "KP": {
+    "status": "closed",
+    "note": ""
+  },
+  "BD": {
+    "status": "visa"
+  },
+  "BG": {
+    "status": "visa",
+    "note": "с Шенгенской визой до 90 дней"
+  },
+  "HR": {
+    "status": "visa",
+    "note": "с Шенгенской визой до 90 дней"
+  },
+  "BJ": {
+    "status": "visa"
+  },
+  "BM": {
+    "status": "visa",
+    "note": "через посольство Великобритании"
+  },
+  "BS": {
+    "status": "visa",
+    "note": "через посольство Великобритании"
+  },
+  "BZ": {
+    "status": "visa",
+    "note": "через посольство Великобритании"
+  },
+  "CA": {
+    "status": "visa"
+  },
+  "CD": {
+    "status": "visa"
+  },
+  "CF": {
+    "status": "visa"
+  },
+  "CL": {
+    "status": "visa"
+  },
+  "CM": {
+    "status": "visa"
+  },
+  "CN": {
+    "status": "visa"
+  },
+  "CO": {
+    "status": "visa"
+  },
+  "CR": {
+    "status": "visa"
+  },
+  "CU": {
+    "status": "visa"
+  },
+  "ER": {
+    "status": "visa"
+  },
+  "GA": {
+    "status": "visa"
+  },
+  "GB": {
+    "status": "visa"
+  },
+  "GN": {
+    "status": "visa"
+  },
+  "GQ": {
+    "status": "visa"
+  },
+  "GW": {
+    "status": "airport"
+  },
+  "GY": {
+    "status": "visa"
+  },
+  "HN": {
+    "status": "visaFree",
+    "note": "до 90 дней"
+  },
+  "ID": {
+    "status": "visa"
+  },
+  "IE": {
+    "status": "visa"
+  },
+  "JP": {
+    "status": "visa"
+  },
+  "KI": {
+    "status": "visa",
+    "note": "через посольство Великобритании"
+  },
+  "LR": {
+    "status": "visa"
+  },
+  "LS": {
+    "status": "visa"
+  },
+  "MA": {
+    "status": "visa"
+  },
+  "MC": {
+    "status": "visa",
+    "note": "через посольство Франции"
+  },
+  "ML": {
+    "status": "airport"
+  },
+  "MM": {
+    "status": "visa"
+  },
+  "MR": {
+    "status": "airport"
+  },
+  "MZ": {
+    "status": "airport"
+  },
+  "NE": {
+    "status": "visa"
+  },
+  "NR": {
+    "status": "visa"
+  },
+  "NZ": {
+    "status": "visa"
+  },
+  "OM": {
+    "status": "visa"
+  },
+  "PH": {
+    "status": "visa"
+  },
+  "PR": {
+    "status": "visa"
+  },
+  "PS": {
+    "status": "visaFree"
+  },
+  "PW": {
+    "status": "airport"
+  },
+  "RO": {
+    "status": "visa"
+  },
+  "SB": {
+    "status": "visa",
+    "note": "через посольство Великобритании"
+  },
+  "SL": {
+    "status": "visa"
+  },
+  "SM": {
+    "status": "visa",
+    "note": "По итальянской (шенгенской) визе"
+  },
+  "TD": {
+    "status": "visa"
+  },
+  "TN": {
+    "status": "airport"
+  },
+  "TT": {
+    "status": "visa",
+    "note": "через посольство Великобритании"
+  },
+  "US": {
+    "status": "visa"
+  },
+  "UY": {
+    "status": "visa"
+  },
+  "VA": {
+    "status": "visa",
+    "note": "По итальянской (шенгенской) визе"
+  },
+  "VE": {
+    "status": "visa"
+  },
+  "ZA": {
+    "status": "visa"
+  }
+}
