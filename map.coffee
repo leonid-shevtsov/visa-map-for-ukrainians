@@ -5,7 +5,7 @@ $ ->
 
   data =
     UA: 'internalPassport'
-    RU: 'visaFree'
+    RU: {status: 'internalPassport', note: 'если паспорт заполнен от руки, могут возникнуть проблемы'}
     BY: 'internalPassport'
     AZ: 'visaFree'
     AL: 'visaFree'
