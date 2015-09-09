@@ -81,7 +81,17 @@
       };
       return $('#map').highcharts('Map', {
         title: {
-          text: 'Визовый режим для украинцев'
+          text: 'Визовый режим для украинцев-туристов'
+        },
+        subtitle: {
+          text: 'На основании сайта Министерства внешних дел Украины и других источников. Информация для ознакомления.'
+        },
+        credits: {
+          href: 'https://github.com/leonid-shevtsov/visa-map-for-ukrainians',
+          text: 'Собрал: Леонид Шевцов',
+          position: {
+            y: -10
+          }
         },
         mapNavigation: {
           enabled: true
